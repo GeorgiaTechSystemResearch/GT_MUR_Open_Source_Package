@@ -1,12 +1,10 @@
 /*
-SeaPerch Remote Control Test
+GT-MUR Remote Control Test
 
 Author: Qiuyang Tao
 Electronic Team - Embeded System Group
 Virtical Integrated Project - RoboSense
 Georgia Institute of Technology
-
-================= How to use ===============================================
 
 */
 #include <Arduino.h>

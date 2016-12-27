@@ -1,16 +1,13 @@
 /*
-SeaPerch Remote Control Test
+GT-MUR Remote Control Test
  
  Author: Qiuyang Tao
  Electronic Team - Embeded System Group
  Virtical Integrated Project - RoboSense
  Georgia Institute of Technology
  
- =================Description================================================
+ =================Description=====================================
  Read the data come form serial port 2, decode and drive the motor
- 
- 
- ================= How to use ===============================================
  
  */
 //I2C lib
